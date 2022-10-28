@@ -125,7 +125,9 @@
         0.5,
         0.8,
         1.0,
-        1.2
+        1.2,
+        1.5,
+        2.5
       ],
       "via_dimensions": [
         {
@@ -137,7 +139,7 @@
           "drill": 0.4
         },
         {
-          "diameter": 1.0,
+          "diameter": 1.2,
           "drill": 0.6
         }
       ],
@@ -360,7 +362,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "CLIENT.kicad_pro",
+    "filename": "NODE.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -445,6 +447,10 @@
     [
       "ec7a3e05-e397-4c97-8519-df29294a336f",
       "RELAY"
+    ],
+    [
+      "9457704f-5cdd-42a5-a96b-915fd529b428",
+      "POWER"
     ]
   ],
   "text_variables": {}

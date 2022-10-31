@@ -1,4 +1,4 @@
-20456147155176768
+20459486047620244
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -86310,9 +86310,23 @@ XH_5P_2.54mm_Horizontal
 5
 5
 XH_2.54mm_Conn
+XH_6P_2.54mm_Vertical
+
+
+0
+6
+6
+XH_2.54mm_Conn
 XH_7P_2.54mm_Horizontal
 
 
 0
+7
+7
+XH_2.54mm_Conn
+XH_8P_2.54mm_Vertical
+
+
 0
-0
+8
+8
